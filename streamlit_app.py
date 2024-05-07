@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit_app as st
 import cv2
 import numpy as np
 from helper import *

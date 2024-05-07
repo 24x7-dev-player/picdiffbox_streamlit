@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from skimage.metrics import structural_similarity
-import streamlit as st
+import streamlit_app as st
 import io
 import base64
 from PIL import Image
